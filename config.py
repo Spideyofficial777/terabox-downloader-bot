@@ -1,5 +1,5 @@
-API_ID =   # api id
-API_HASH = ""  # api hash
+API_ID = 28519661  # api id
+API_HASH = "d47c74c8a596fd3048955b322304109d"  # api hash
 
 BOT_TOKEN = ""  # bot token
 
